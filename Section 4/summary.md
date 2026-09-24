@@ -15,4 +15,16 @@
 
 ## Set
 
--
+- Vector values.
+- Values bordered by flower brackets.
+- Mutable.
+- Unique.
+- Unordered.
+
+## Dictionary
+
+- A collection of key-value pairs.
+- Mutability of the values.
+- Unordered.
+- Unique keys.
+- Values bordered by flower brackets.
